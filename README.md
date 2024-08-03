@@ -16,13 +16,13 @@ Development of the `.apxen` file format for specialized executable files. Featur
 - A `launch.bat` script for program execution and module handling
 - Built-in error handling and data management
 
-###HtttpSX
+### **HtttpSX**
 - A http server for file hosting
 - local based
 - Easy to setup
 
-###Exe For Linux
-- Run Exe files on linux by clicking on them
+### **Exe For Linux**
+- Run ```exe``` files on linux by clicking on them
 - WIde range support
 - Easy to use
 
