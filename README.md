@@ -34,6 +34,8 @@ Managing complex dual-boot setups with Windows and various Linux distributions t
 
 ## Connect with Me
 
+To leave feedback or suggestion, goto The FeedBACK repo
+
 Feel free to explore my repositories, contribute, or provide feedback. I’m always open to collaboration and discussions on technology and development.
 
 Thank you for visiting my GitHub profile!
