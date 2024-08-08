@@ -40,6 +40,12 @@ Feel free to explore my repositories, contribute, or provide feedback. I’m alw
 
 Thank you for visiting my GitHub profile!
 
+### URLs:
+- https://bit.ly/FundimanDevGithub
+- https://www.youtube.com/@FundimanTech57058
+- https://github.com/Fundiman
+- https://github.com/Fundiman/FeedBACK
+
 ---
 
 Explore my projects and let’s drive innovation and technology forward together!
