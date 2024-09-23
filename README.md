@@ -46,6 +46,9 @@ Thank you for visiting my GitHub profile!
 - https://github.com/Fundiman
 - https://github.com/Fundiman/FeedBACK
 
+### Email:
+- fundiman.dev@gmail.com
+
 ---
 
 Explore my projects and let’s drive innovation and technology forward together!
