@@ -31,6 +31,8 @@ Creating a sophisticated voice bot with advanced recognition and response capabi
 
 ### **Dual Boot Environments**
 Managing complex dual-boot setups with Windows and various Linux distributions to optimize development workflows.
+UPDATE: Working on Hackintoshing + Dualboot
+OSES: Windows, Linux, MacOS, ChromeOS, BlissOS
 
 ## Connect with Me
 
