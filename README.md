@@ -55,7 +55,7 @@ Thank you for visiting my GitHub profile!
 - Age: 10
 - Born: 5/4/2014 (dd.mm.yy)
 - Live: PK
-
+---
 ---
 
 Explore my projects and let’s drive innovation and technology forward together!
