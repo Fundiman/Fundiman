@@ -41,9 +41,9 @@ Hello! I’m **Abdullah Bhatti** (call me Fundiman if you want!), a passionate y
 
 ## Contact Me
 
-- 📧 Email: abdullahbhatti0890@gmail.com  
-- 📧 Email 2: abdullahbhatti0980@gmail.com
-- 📞 Phone: 
+- 📧 Email (If you even dare trying to spam my email, I'll report you faster than you can say "git commit"): abdullahbhatti0890@gmail.com  
+- 📧 Email 2 (spam it, i don't care): abdullahbhatti0980@gmail.com
+- 📞 Phone (please don’t spam lmao): 
 
 ---
 
