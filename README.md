@@ -1,62 +1,54 @@
-# Welcome to Fundiman's GitHub Profile
+# Abdullah Bhatti (aka Fundiman) — Software Developer & Tech Enthusiast
 
-Hello! I'm Fundiman, a developer with a strong passion for technology and software development. On this GitHub profile, you'll find a diverse range of projects and contributions focused on various aspects of programming and tech. Here’s a snapshot of what I’m working on:
-
-## Projects and Interests
-
-### **Linuxuim OS** ```Comming Soon```
-A realistic Linux simulator designed to replicate the Linux environment on Windows systems. Key features include:
-- Custom commands and interactive elements
-- An installer for setting up the simulated environment
-- Plans for future enhancements, including a GUI version
-
-### **PynousIDE** ```Comming Soon```
-- Advance IDE for Python
-
-### **HtttpSX**
-- A http server for file hosting
-- local based
-- Easy to setup
-
-### **Exe For Linux**
-- Run ```exe``` files on linux by clicking on them
-- Wide range support
-- Easy to use
-
-### **SnapReportX**
-- Advance report collecter
-
-### **Dual Boot Environments**
-Managing complex dual-boot setups with Windows and various Linux distributions to optimize development workflows.
-UPDATE: Working on Hackintoshing + Dualboot
-OSES: Windows, Linux, MacOS, ChromeOS, BlissOS
-
-## Connect with Me
-
-To leave feedback or suggestion, goto The FeedBACK repo
-
-Feel free to explore my repositories, contribute, or provide feedback. I’m always open to collaboration and discussions on technology and development.
-
-Thank you for visiting my GitHub profile!
-
-### URLs:
-- https://bit.ly/FundimanDevGithub
-- https://www.youtube.com/@FundimanTech57058
-- https://github.com/Fundiman
-- https://github.com/Fundiman/FeedBACK
-
-### Email:
-- abdullahbhatti0890@gmail.com
-- fundiman.dev@gmail.com
-- abdullahbhatti0980@outlook.com
-
-## Personal details
-- Name: Abdullah Bhatti
-- Age: 10
-- Born: 5/4/2014 (dd.mm.yy)
-- Live: PK
+Hello! I’m **Abdullah Bhatti** (call me Fundiman if you want!), a passionate young developer from Lahore, Pakistan. Currently studying in 6th grade, I’m deeply fascinated by programming, technology, and all things software. I enjoy building projects, exploring new tools, and continuously leveling up my skills.
 
 ---
-## THE END
+
+## About Me
+
+- 🎂 Born on April 5, 2014  
+- 💻 Laptop: HP Pavilion x360 14-ek1xxx (Intel Core i7-1355U, 16GB RAM, 1TB SSD)  
+- 🌐 Location: Lahore, Pakistan  
+- 📱 Android user & multi-booter enthusiast  
+- 🔭 Currently working on personal projects and expanding my dev toolbox  
+- 🌱 Lifelong learner hungry for new challenges  
+- 🤝 Open to collaboration and mentorship  
+- ⚡ Fun fact: I love modding windows to the point it crashes
+
 ---
-Explore my projects and let’s drive innovation and technology forward together!
+
+## Skills & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right: 10px;" />
+</p>
+
+---
+
+## GitHub Stats
+
+![Fundiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fundiman&show_icons=true&theme=github_dark)
+
+---
+
+## Contact Me
+
+- 📧 Email: abdullahbhatti0890@gmail.com  
+- 📧 Email 2: abdullahbhatti0980@gmail.com
+- 📞 Phone: +92 3084360877
+
+---
+
+Thanks for stopping by my profile! I’m always down to connect, collaborate, and geek out on tech stuff. Hit me up anytime!
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
