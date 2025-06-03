@@ -32,12 +32,13 @@ Hello! I’m **Abdullah Bhatti** (call me Fundiman if you want!), a passionate y
 </p>
 
 ---
-## GitHub Stats
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fundiman&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&icon_color=79ff97" alt="GitHub Stats" width="300" style="margin-right:30px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fundiman&layout=compact&theme=github_dark&hide_title=true&hide_border=true&langs_count=6" alt="Top Languages" width="300" style="margin-right:30px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fundiman&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="300" />
+  <img src="https://noskid.today/badge/470x200?repo=Fundiman/Fundiman&cache=false" alt="NoSkid Verification" width="300" />
 </p>
 
 ---
