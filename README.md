@@ -32,7 +32,7 @@ Hello! I’m **Abdullah Bhatti** (call me Fundiman if you want!), a passionate y
 </p>
 
 ---
-## Stats
+## Developer Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fundiman&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&icon_color=79ff97" alt="GitHub Stats" width="300" style="margin-right:30px;" />
