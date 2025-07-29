@@ -64,7 +64,7 @@ A slack bot for @channel-ing a slack channel.
 ### drawnsvg (https://www.github.com/Fundiman/drawnsvg)
 simple multi-player canvas for drawning svgs.
 
-### Fundiman's home on the darkweb (fundi47u4zuydiws42pbm54473icajljo6pzon56x53ov5645pja44qd.onion)
+### Fundiman's home on the darkweb (http://fundi47u4zuydiws42pbm54473icajljo6pzon56x53ov5645pja44qd.onion)
 my website on the darkweb.
 
 ---
