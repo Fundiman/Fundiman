@@ -1,6 +1,6 @@
 # Abdullah Bhatti (aka Fundiman) — Software Developer & Tech Enthusiast
 
-Hello! I’m **Abdullah Bhatti** (call me Fundiman if you want!), a passionate young developer from Lahore, Pakistan. Currently studying in 6th grade, I’m deeply fascinated by programming, technology, and all things software. I enjoy building projects, exploring new tools, and continuously leveling up my skills.
+Hello! I’m **Abdullah Bhatti** (call me **Fundiman** if you want!), a passionate young developer from Lahore, Pakistan. Currently studying in 6th grade, I’m deeply fascinated by programming, technology, and all things software. I enjoy building projects, exploring new tools, and continuously leveling up my skills.
 
 ---
 
@@ -13,7 +13,7 @@ Hello! I’m **Abdullah Bhatti** (call me Fundiman if you want!), a passionate y
 - 🔭 Currently working on personal projects and expanding my dev toolbox  
 - 🌱 Lifelong learner hungry for new challenges  
 - 🤝 Open to collaboration and mentorship  
-- ⚡ Fun fact: I love modding windows to the point it crashes
+- ⚡ Fun fact: 'Fundi' has became a part of my branding, I still remember when I was looking for a name that was unique and landed on this. I have been using this name since 9!
 
 ---
 
@@ -29,6 +29,8 @@ Hello! I’m **Abdullah Bhatti** (call me Fundiman if you want!), a passionate y
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://res.cloudinary.com/cagatayc/image/upload/c_scale,w_500/v1493914344/bf.png" alt="BrainFuck" width="40" height="40" style="margin-right: 10px;" />
 </p>
 
 ---
@@ -43,9 +45,36 @@ Hello! I’m **Abdullah Bhatti** (call me Fundiman if you want!), a passionate y
 </p>
 
 ---
+## Projects By Me
+I have made **plenty** of **projects** but *I have almost never published them, or at least not on github*.
+
+So here's a **list** of **Projects** I have made (with **URLs**, includes *ones on **github*** and *ones not on **github***):
+### VSCodeASOP (https://www.github.com/Fundiman/VSCodeASOP)
+It's a **new version** of the **old** [VSCodeAndroid](https://www.github.com/Fundiman/VSCodeAndroid) *with some bugs fixed and improved!*
+
+### FundiMC (http://fundi47u4zuydiws42pbm54473icajljo6pzon56x53ov5645pja44qd.onion/minecraft.html)
+Not really a project but a Minecraft Server I created! It's currently avaible to join via the darkweb (don't judge tho, HackClub took away my nest account so I can't host it there so I decided the darkweb).
+
+### FundiFeed (http://fundi47u4zuydiws42pbm54473icajljo6pzon56x53ov5645pja44qd.onion/rss-feed.html)
+Again, not really a project but a rss feed hosted by me on the darkweb.
+
+### at-everyone (https://www,github.com/Fundiman/at-everyone)
+A slack bot for @channel-ing a slack channel.
+
+### drawnsvg (https://www.github.com/Fundiman/drawnsvg)
+simple multi-player canvas for drawning svgs.
+
+### Fundiman's home on the darkweb (fundi47u4zuydiws42pbm54473icajljo6pzon56x53ov5645pja44qd.onion)
+my website on the darkweb.
+
+---
 
 ## Contact Me
-- 📧 fundiman@is.notaskid.ong
+- abdullahbhatti0890@gmail.com (main email, usually active on it)
+- fundiman.dev@gmail.com (work email + alt, not really active that much on it)
+- abdullahbhatti0980@outlook.com (second email + never active on it)
+- fundimandev (my [JAMI](https://www.jami.net/) username )
+- fundiman (my discord username)
 
 ---
 
