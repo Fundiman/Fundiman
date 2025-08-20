@@ -1,12 +1,10 @@
 # Abdullah Bhatti (aka Fundiman) — Software Developer & Tech Enthusiast
 
-Hello! I’m **Abdullah Bhatti** (call me **Fundiman** if you want!), a passionate young developer from Lahore, Pakistan. Currently studying in 6th grade, I’m deeply fascinated by programming, technology, and all things software. I enjoy building projects, exploring new tools, and continuously leveling up my skills.
+Hello! I’m **Abdullah Bhatti** (call me **Fundiman** if you want!), a passionate developer from Lahore, Pakistan. I’m deeply fascinated by programming, technology, and all things software. I enjoy building projects, exploring new tools, and continuously leveling up my skills.
 
 ---
 
 ## About Me
-
-- 🎂 Born on April 5, 2014  
 - 💻 Laptop: HP Pavilion x360 14-ek1xxx (Intel Core i7-1355U, 16GB RAM, 1TB SSD)  
 - 🌐 Location: Lahore, Pakistan  
 - 📱 Android user & multi-booter enthusiast  
@@ -73,7 +71,7 @@ my website on the darkweb.
 - abdullahbhatti0890@gmail.com (main email, usually active on it)
 - fundiman.dev@gmail.com (work email + alt, not really active that much on it)
 - abdullahbhatti0980@outlook.com (second email + never active on it)
-- fundimandev (my [JAMI](https://www.jami.net/) username )
+- fundimandev (my [JAMI](https://www.jami.net/) username)
 - fundiman (my discord username)
 
 ---
