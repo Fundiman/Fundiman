@@ -71,7 +71,7 @@ my website on the darkweb.
 - abdullahbhatti0890@gmail.com (main email, usually active on it)
 - fundiman.dev@gmail.com (work email + alt, not really active that much on it)
 - abdullahbhatti0980@outlook.com (second email + never active on it)
-- fundimandev (my [JAMI](https://www.jami.net/) username)
+- fundimandev (my [JAMI](https://www.jami.net/) username and Roblox username)
 - fundiman (my discord username)
 
 ---
