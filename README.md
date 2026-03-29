@@ -27,7 +27,7 @@ its a hp pavilion x360 14-ek1000ne with;
 </p>
 
 ---
-## my developeer stats
+## my developer stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fundiman&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&icon_color=79ff97" alt="GitHub Stats" width="300" style="margin-right:30px;" />
