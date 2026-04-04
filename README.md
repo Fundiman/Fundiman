@@ -42,8 +42,10 @@ its a hp pavilion x360 14-ek1000ne with;
 - abdullahbhatti0890@gmail.com (main email, usually active on it)
 - fundiman.dev@gmail.com (work email + alt, not really active that much on it)
 - abdullahbhatti0980@outlook.com (second email + never active on it)
-- fundimandev (my JAMI username and Roblox username)
-- fundiman (my discord username)
+- fundimandev (my JAMI username and Roblox username, SUPER inactive)
+- fundiman (my discord username, REALLY ACTIVE ON IT)
+- 17662C1A702684F9807932545CD5EAFE3955F9F897FC0646353B6856C53F84471B6287C11A04 (qtox id, somewhat active)
+- what other methods of contacts could you need? i think the above is enough for ya!
 </p>
 
 ## 
