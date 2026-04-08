@@ -45,6 +45,7 @@ its a hp pavilion x360 14-ek1000ne with;
 - fundimandev (my JAMI username and Roblox username, SUPER inactive)
 - fundiman (my discord username, REALLY ACTIVE ON IT)
 - 17662C1A702684F9807932545CD5EAFE3955F9F897FC0646353B6856C53F84471B6287C11A04 (qtox id, somewhat active)
+- [@fundiman@mastodon.social](https://mastodon.social/@fundiman) (newly created, uhhh so yeah i'm active, uhhhh so if you want to know what i'm upto, maybe i'll post there...)
 - what other methods of contacts could you need? i think the above is enough for ya!
 </p>
 
