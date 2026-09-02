@@ -2,6 +2,7 @@
 i'm fundiman (some people also know me as abdullah bhatti), i'm a developer from pakistan who loves flask backend development with python and does a lot of other cool things!
 > [!NOTE]
 > kindly refer to me as fundiman (or fundi for short), i do not like being called by my real name (unless you're talking to me irl)! the reason why i included my real name is because my family sometimes have trouble finding me.
+> git commits might refer to me as "Abdullah Bhatti (Fundiman)"—that's my fault and now future commits will refer to me as "fundiman".
 
 ## my hardware
 
