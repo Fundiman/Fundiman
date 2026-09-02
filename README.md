@@ -1,12 +1,12 @@
 # whoami
-i'm fundiman (some people also know me as abdullah bhatti), i'm a developer from pakistan who loves flask backend development with python and does a lot of other cool things!
+i'm fundiman (some people also know me as abdullah bhatti), i'm a developer from pakistan who loves flask backend development with python (i'm now actually obsessed with C++ for some reason) and does a lot of other cool things!
 > [!NOTE]
 > kindly refer to me as fundiman (or fundi for short), i do not like being called by my real name (unless you're talking to me irl)! the reason why i included my real name is because my family sometimes have trouble finding me.
 > git commits might refer to me as "Abdullah Bhatti (Fundiman)"—that's my fault and now future commits will refer to me as "fundiman".
 
 ## my hardware
 
-its a hp pavilion x360 14-ek1000ne with;
+it's a hp pavilion x360 14-ek1000ne with;
 
 - Intel i7 13th gen
 - Intel iris x graphics
@@ -18,6 +18,7 @@ its a hp pavilion x360 14-ek1000ne with;
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"></td>
@@ -48,11 +49,9 @@ its a hp pavilion x360 14-ek1000ne with;
 - fundiman.dev@gmail.com (work email + alt, not really active that much on it)
 - abdullahbhatti0980@outlook.com (second email + never active on it)
 - fundimandev (my JAMI username and Roblox username, SUPER inactive)
-- fundiman (my discord username, REALLY ACTIVE ON IT)
+- fundiman (my discord username, REALLY ACTIVE ON IT — you'll most likely receive the fastest response from here)
 - 17662C1A702684F9807932545CD5EAFE3955F9F897FC0646353B6856C53F84471B6287C11A04 (qtox id, somewhat active)
 - [@fundimandev](https://x.com/fundimandev) (my twitter, or should I say, X account)
-- [@fundiman@mastodon.social](https://mastodon.social/@fundiman) (newly created, uhhh so yeah i'm active, uhhhh so if you want to know what i'm upto, maybe i'll post there...)
+- [@fundiman@mastodon.social](https://mastodon.social/@fundiman) (will be active next century)
 - what other methods of contacts could you need? i think the above is enough for ya!
 </p>
-
-## 
