@@ -3,6 +3,7 @@ i'm fundiman (some people also know me as abdullah bhatti), i'm a developer from
 > [!NOTE]
 > kindly refer to me as fundiman (or fundi for short), i do not like being called by my real name (unless you're talking to me irl)! the reason why i included my real name is because my family sometimes have trouble finding me.
 > git commits might refer to me as "Abdullah Bhatti (Fundiman)"—that's my fault and now future commits will refer to me as "fundiman".
+> actually, I should probably be honest — ChatGPT told 10 y/o me to put my real name and 10 y/o had no concept of internet safety so now I'm embrassed and want everyone to not use my IRL name when talking to me online >_<
 
 ## my hardware
 
